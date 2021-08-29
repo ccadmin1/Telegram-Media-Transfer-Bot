@@ -2,8 +2,7 @@
 𝖨𝗇𝗍𝖾𝗋𝖿𝖺𝖼𝖾 𝖻𝖺𝗌𝖾𝖽 𝖽𝖾𝗌𝗂𝗀𝗇
 <br>
 <br>
-
-𝖠 𝖳𝖾𝗅𝖾𝗀𝗋𝖺𝗆 𝖡𝗈𝗍 𝖼𝖺𝗇 𝖼𝗅𝗈𝗇𝖾 𝗆𝖾𝖽𝗂𝖺 𝖿𝗋𝗈𝗆 𝖺𝗇𝗒 𝖼𝗁𝖺𝗍
+Clone bots are basically Telegram files copying bots. They can copy different types of files like "Document", "video", "Audio" etc from any private or publics chats to user defined chat. Copying from private channel needs user session. So, this bot is also used the same, to search and copy during the function. Here Bot is only a UI Client for input-outputs. User is doing all these functions.
 
 <br>
 
