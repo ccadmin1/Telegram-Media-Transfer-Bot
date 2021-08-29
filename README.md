@@ -1,4 +1,4 @@
-# [Clone Bot- UI](https://github.com/m4mallu/clonebot-ui) 
+# [Telegram Media Transfer Bot](https://github.com/ccadmin1/Telegram-Media-Transfer-Bot) 
 𝖨𝗇𝗍𝖾𝗋𝖿𝖺𝖼𝖾 𝖻𝖺𝗌𝖾𝖽 𝖽𝖾𝗌𝗂𝗀𝗇
 <br>
 <br>
@@ -23,7 +23,7 @@
 
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/m4mallu/clonebot-ui)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ccadmin1/Telegram-Media-Transfer-Bot)
 
 <br>
 
